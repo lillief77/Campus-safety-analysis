@@ -1,2 +1,2 @@
-# Campus-coffee
-Dataset and methodology for the campus safety perception story 
+# NYC-Drinking-Fountains
+Dataset and methodology for drinking fountain access in NYC perception story 
