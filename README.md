@@ -23,3 +23,6 @@ Dataset and methodology for drinking fountain access in NYC perception story
   
 ## Transparency Note 
 This dataset has been cleaned for clarity. All cleaning steps are doccumented above. 
+
+## Visuals 
+
